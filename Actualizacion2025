@@ -1,1 +1,15 @@
+///////////
+Contenido original de Rama B
+////////////
+Éste es un archivo de prueba en la rama B para evidenciar la gestión de cambios y resolución de conflictos.
+
+
+///////////
+Contenido original de  master y rama A
+////////////
 Actualización de repositorio 2025 para evidencia de videografía.
+
+///////////
+Contenido combinado
+////////////
+Para resolver el conflicto combinamos el contenido de ambos archivos de actualización.
