@@ -1,0 +1,9 @@
+ls -al ~/.ssh listar las llaves ssh existentes
+cat ~/.ssh/id_rsa.pub ver el contenido de la llave pública
+git config --global user.name verificar conexión con el repositorio
+git config --global user.email
+
+resolución de conflictos
+cd Proyecto-ml-notebooks
+
+*modificación para rama B
